@@ -1,0 +1,87 @@
+[
+    
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo 01",
+        "precio": 1000,
+        "imagen": "./img/abrigos/01.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo 02",
+        "precio": 2000,
+        "imagen": "./img/abrigos/02.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo 03",
+        "precio": 3000,
+        "imagen": "./img/abrigos/03.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo 04",
+        "precio": 4000,
+        "imagen": "./img/abrigos/04.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "camiseta 01",
+        "precio": 1000,
+        "imagen": "./img/camisetas/01.jpg",
+        "cantidad": 1
+    }, 
+    {
+        "id": "camiseta-02",
+        "titulo": "camiseta 02",
+        "precio": 1200,
+        "imagen": "./img/camisetas/02.jpg",
+        "cantidad": 1
+    }, 
+    {
+        "id": "camiseta-03",
+        "titulo": "camiseta 03",
+        "precio": 1150,
+        "imagen": "./img/camisetas/03.jpg",
+        "cantidad": 1
+    }, 
+    {
+        "id": "camiseta-04",
+        "titulo": "camiseta 04",
+        "precio": 1300,
+        "imagen": "./img/camisetas/04.jpg",
+        "cantidad": 1
+    }, 
+    {
+        "id": "pantalones-01",
+        "titulo": "pantalones-01",
+        "precio": 1450,
+        "imagen": "./img/pantalones/01.jpg",
+        "cantidad": 1
+    },   
+    {
+        "id": "pantalones-02",
+        "titulo": "pantalones-02",
+        "precio": 1500,
+        "imagen": "./img/pantalones/02.jpg",
+        "cantidad": 1
+    }, 
+    {
+        "id": "pantalones-03",
+        "titulo": "pantalones-03",
+        "precio": 1550,
+        "imagen": "./img/pantalones/03.jpg",
+        "cantidad": 1
+    }, 
+    {
+        "id": "pantalones-04",
+        "titulo": "pantalones-04",
+        "precio": 1600,
+        "imagen": "./img/pantalones/04.jpg",
+        "cantidad": 1
+    }
+]
